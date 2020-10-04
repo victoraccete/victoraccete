@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-#### About me
+### About me
 My name is Victor Accete and I'm a brazilian Computer Engineering undergraduate. During my graduation I found out that I love working with data, since I'm a curious individual.
 
 I'm currently working as an Undergraduate Student Researcher on Kinship Recognition with RGBD images. 
@@ -20,6 +20,6 @@ Cleaned and explored SISVAN (System of Alimentary and Nutritional Vigilance) dat
 This notebook has educational purposes only. This time, I tried to be didatic so it could also be helpful to someone else and wrote down my thought process throughout the notebook. I experimented the benefits of using Data Augmentation to reduce overfitting. 
 
 ### Contact
-You can reach me on [Linkedin]('https://www.linkedin.com/in/victor-accete/') or on victor.accete (at) gmail. 
+You can reach me on (Linkedin)['https://www.linkedin.com/in/victor-accete/'] or on victor.accete (at) gmail. 
 
 
