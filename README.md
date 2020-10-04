@@ -1,8 +1,5 @@
 ### Hello, world! 👋
 
-<!--
-**victoraccete/victoraccete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### About me
 My name is Victor Accete and I'm a brazilian Computer Engineering undergraduate. During my graduation I found out that I love working with data, since I'm a curious individual.
 
