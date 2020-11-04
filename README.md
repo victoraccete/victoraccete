@@ -5,7 +5,7 @@ My name is Victor Accete and I'm a brazilian Computer Engineering undergraduate.
 
 I'm currently working as an Undergraduate Student Researcher on Kinship Recognition with RGBD images. 
 
-I enjoy programming for solving problems and discovering things. I'm shaerpening my skills with Python, specially Pandas, Numpy and visualization libraries such as Seaborn, Plotly and Matplotlib. I'm also currently making my first steps with Tensorflow, Computer Vision and Machine Learning. 
+I enjoy programming for solving problems and discovering things. I'm sharpening my skills with Python, specially Pandas, Numpy and visualization libraries such as Seaborn, Plotly and Matplotlib. I'm also currently making my first steps with Tensorflow, Computer Vision and Machine Learning. 
 
 ### Portfolio
 Here are some projects I'm proud of and I want to show to you. Please note that this section is permanently under construction. Expect to see more data analysis and machine learning here soon! =) 
