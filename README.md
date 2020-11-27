@@ -10,6 +10,11 @@ I enjoy programming for solving problems and discovering things. I'm sharpening 
 ### Portfolio
 Here are some projects I'm proud of and I want to show to you. Please note that this section is permanently under construction. Expect to see more data analysis and machine learning here soon! =) 
 
+**Interactive data visualization of brazilian teams revenues from 2007 to 2019, made with Streamlit**  
+The repository's readme.md has information in English about the files and what they do: [Here](https://github.com/victoraccete/brazilian-teams-revenues).  
+You can check it online without any setup here on [Streamlit share](https://share.streamlit.io/victoraccete/brazilian-teams-revenues/main)! (Portuguese)  
+For this project, I scraped data from Wikipedia, cleaned the data and generated a cleaner .csv file using Pandas. Then I worked with this data, manipulating it, to generate interactive visualizations.  
+
 **A bot to download government open data through filling forms with Selenium**  
 Portuguese: [Here](https://github.com/victoraccete/ICD_20182/tree/webScraper)  
 This is the data collection part of a broader project. I wanted to download multiple excel spreadsheets from SISVAN website. I automated this process with Python requests and Selenium. 
@@ -22,11 +27,5 @@ Cleaned and explored SISVAN (System of Alimentary and Nutritional Vigilance) dat
 English: [Here](https://colab.research.google.com/drive/1J3wTArG8H1dClS7VsgbUCzmboD_BaUdZ?usp=sharing)  
 This notebook has educational purposes only. This time, I tried to be didatic so it could also be helpful to someone else and wrote down my thought process throughout the notebook. I experimented the benefits of using Data Augmentation to reduce overfitting. 
 
-**Interactive data analysis and visualization with Streamlit**  
-English: [Here](https://github.com/victoraccete/airline-tweets-streamlit)  
-My first streamlit applicaton. From a tutorial I watched on Coursera I created this interactive tool.  
-
 ### Contact
 You can reach me on [Linkedin](https://www.linkedin.com/in/victor-accete/) or on victor (.) accete (at) gmail. 
-
-
