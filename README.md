@@ -27,5 +27,9 @@ Cleaned and explored SISVAN (System of Alimentary and Nutritional Vigilance) dat
 English: [Here](https://colab.research.google.com/drive/1J3wTArG8H1dClS7VsgbUCzmboD_BaUdZ?usp=sharing)  
 This notebook has educational purposes only. This time, I tried to be didatic so it could also be helpful to someone else and wrote down my thought process throughout the notebook. I experimented the benefits of using Data Augmentation to reduce overfitting. 
 
+**Exploratory data analysis with public transport open data**  
+Portuguese: [Here](https://colab.research.google.com/github/victoraccete/SMTT-EDA/blob/main/SMTT_EDA.ipynb)  
+This notebook was made to evaluate public transport companies and travels from Maceió-AL. I developed some visualizations with Plotly, Seaborn and Matplotlib. 
+
 ### Contact
 You can reach me on [Linkedin](https://www.linkedin.com/in/victor-accete/) or on victor (.) accete (at) gmail. 
